@@ -1,0 +1,24 @@
+my-nextjs-starter/
+├── .next/                 # Next.js build output
+├── node_modules/          # Node.js dependencies
+├── public/                # Publicly accessible assets
+│   ├── favicon.ico        # Favicon
+│   └── ...
+├── src/
+│   ├── components/        # Reusable React components
+│   ├── pages/             # Next.js pages and routes
+│   │   ├── index.js       # Home page
+│   │   └── ...
+│   └── styles/            # Global and component styles
+│       ├── globals.css    # Global styles
+│       └── ...
+├── .gitignore             # Git ignore file
+├── package.json           # Node.js package configuration
+├── README.md              # Project README
+└── ...
+
+
+
+
+
+
